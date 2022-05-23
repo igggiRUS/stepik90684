@@ -1,8 +1,8 @@
-package Operator25;
+package operator25;
 
 import java.util.Scanner;
 
-public class myNumber_2_5_16 {
+public class myNumber2516 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         int seconds1 = sc.nextInt();
@@ -16,5 +16,6 @@ public class myNumber_2_5_16 {
         int minute2 = ((((seconds2 % ((int) Math.pow(60, 2)))) / 60));
         int sec2 = ((((seconds2 % ((int) Math.pow(60, 2)))) % 60));
         System.out.format("%02d"+":"+"%02d"+":"+"%02d", hours2, minute2, sec2);
-    }
 
+    }
+}

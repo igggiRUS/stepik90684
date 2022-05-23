@@ -1,8 +1,8 @@
-package Operator25;
+package operator25;
 
 import java.util.Scanner;
 
-public class myNumber_2_5_10 {
+public class myNumber2510 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         double x = sc.nextDouble();

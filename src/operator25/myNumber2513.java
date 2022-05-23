@@ -1,6 +1,6 @@
-package Operator25;
+package operator25;
 
-public class myNumber_2_5_13 {
+public class myNumber2513 {
     public static void main(String[] args) {
         int x = 41; int y = 7;
         int myVar = x % y;

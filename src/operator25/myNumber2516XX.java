@@ -1,12 +1,10 @@
-package Operator25;
+package operator25;
 
-import java.util.Scanner;
-
-public class myNumber_2_5_16_XX {
+public class myNumber2516XX {
     public static void main(String[] args) {
 //        Scanner sc = new Scanner(System.in);
-//        int seconds1 = sc.nextInt();
-//        int seconds2 = sc.nextInt();
+//        int x = sc.nextInt();
+//        int y = sc.nextInt();
 //        sc.close();
         int x = 41000;
         int y = 3600;
