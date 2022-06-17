@@ -9,7 +9,7 @@ public static void main(String[] args) {
 	double a = sc.nextDouble();
 	double b = sc.nextDouble();
 	double c = sc.nextDouble();
-	
+	sc.close();
 //	System.out.printf("%f %f %f", a, b, c);
 	//сумма
 	double sum = (-1*b)/a;	
