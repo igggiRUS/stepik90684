@@ -1,6 +1,11 @@
 package logic32;
 
 import java.util.Scanner;
+/**
+ * На входе 2 числа четных одно не четное
+ * Если верно то true
+ *
+ */
 
 public class MyProgram3211 {
 	public static void main(String[] args) {
@@ -16,12 +21,6 @@ public class MyProgram3211 {
 		} else {
 			System.out.println(false);
 		
-//		if ((a + b) % 2 == 0 && c % 2 != 0) {
-//			System.out.println(((a + b) % 2 == 0 && c % 2 != 0));
-//			} else if  ((b + c) % 2 == 0 && a % 2 != 0) {
-//					System.out.println(((b + c) % 2 == 0 && a % 2 != 0)); {
-//			} else {
-//				
 		}
 	}
 }
